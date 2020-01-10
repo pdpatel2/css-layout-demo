@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-size: 20px
+}
+header {
+  background: black;
+  height: 200px;
+}
+footer {
+  background: black;
+  height: 250px;
+}
+.inline-span {
+  margin: 10px;
+  padding: 10px;
+  display: inline;
+}
+.inline-block-span {
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+.parent {
+  display: block;
+}
+.child {
+  width: 25%;
+  height: 150px;
+}
+.child-one { background: #333; }
+.child-two { background: #444; }
+.child-three { background: #555; }
+.child-four { background: #666; }
+.child-five { background: #777; }
+.child-six { background: #888; }
+.child-seven { background: #999; }
+.child-eight { background: #AAA; }
+.child-nine { background: #BBB; }
